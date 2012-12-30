@@ -1,6 +1,7 @@
 whatsploit
 ==========
 by alist3r
+
 based on yowsup whatsapp python api by Tarek Galal
 
 exploit for temporary disabling whatsapp access to an arbitrary list of phone numbers using the "request code" feature to temporary invalidate whatsapp legitimate access to the actual phone number owner.
