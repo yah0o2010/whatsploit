@@ -38,6 +38,11 @@ quite the same usage as whatsploit.sh, but this script just assesses the existen
 
 whatsappquery.sh can be feeded with a list of phone numbers of a given country/state/province in order to exactly know how many whatsapp users exists in the given zone, as well as their phone numbers. researchers have sucessfully tested this concept in Spain and have found 9.832.654 whatsapp users at that time (fabruary 2012)
 
+
+yowsup
+
+This repo includes a full working copy of the yowsup api by Tarek Galal, with all the original documentation, files, examples, readme, and the yowsup-cli utility, wich whatsploit.sh relies on
+
 DISCLAIMER
 ==========
 This information is for research and academic purposes only. This info is not to be abused and is only published as a proof of concept. I am not responsible for any damage that you may create using this contents and software in an inappropiate way. Experiment onlye with your own phone numbers.
