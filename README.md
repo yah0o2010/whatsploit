@@ -1,3 +1,7 @@
+IMPORTANT UPDATE (2012-12-30)
+=============================
+Just 24h after, the bug seems to be already adressed by whatsapp, so this exploit wont break the legitimate link between a phone and the whatsapp account anymore. The exploit will continue forcing the send of validation codes and annoying the victim through sms and phone calls, though.
+
 whatsploit
 ==========
 by alist3r
