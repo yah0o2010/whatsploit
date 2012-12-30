@@ -16,11 +16,13 @@ usage:
 ./whatsploit.sh file-with-a-list-of-numbers
 
 ensure that you do one of the both:
+
   * the list of numbers contains the country code prepended to the number, i.e. 34600000000 for the spanish number 600000000. Dont use "00" or "+", just prepend the country code.
   * open the script in order to set the variable "countrycode" to your country's phone code. then you will not need to add the country code to all the numbers in the number list file nor the manual inputs in interactive mode.
 
 interactive usage:
 ./whatsploit.sh (without parameters)
+
 will take the input from the keyboard and each time you press enter, the script will try to process the given number
 (caution, there's no input validation implemented, dont type weird things there) 
 
@@ -30,6 +32,7 @@ other tools included
 whatsappquery.sh
 
 whatsapp account assessment script
+
 quite the same usage as whatsploit.sh, but this script just assesses the existence of a whatsapp account linked to the given numbers. The script reports results on screen and automatically adds found numbers to the log file "whatsappusers.list", which can be used as an input file for whatsaploit.
 
 whatsappquery.sh can be feeded with a list of phone numbers of a given country/state/province in order to exactly know how many whatsapp users exists in the given zone, as well as their phone numbers. researchers have sucessfully tested this concept in Spain and have found 9.832.654 whatsapp users at that time (fabruary 2012)
